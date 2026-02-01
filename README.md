@@ -15,9 +15,9 @@ Based on [Mayu dark gtk theme](https://github.com/mrbrownstone07/Mayu_dark_gtk_t
 
 ## Screenshots
 
-![Overview](Screenshots/1.png)
+![Overview](Screenshot/1.png)
 
-![Details](Screenshots/2.png)
+![Details](Screenshot/2.png)
 
 
 ## Installation
