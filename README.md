@@ -33,12 +33,12 @@ If you prefer not to use Git, you can install Back in Black manually:
 
 1. Download the ZIP file from this repository: [Download ZIP](https://github.com/mojavelin/back-in-black-theme/archive/refs/heads/main.zip)
 
-2. Extract the ZIP file. You will get a folder named `Back-in-Black`.
+2. Extract the ZIP file. You will get a folder .
 
 3. Move the extracted folder to your themes directory:
 
    - **For a single user:**  
-     Copy `Back-in-Black` to `~/.themes/`  
+     Copy `folder` to `~/.themes/`  
      *(create the `.themes` folder in your home directory if it doesn't exist)*
 
    - **For all users:**  
