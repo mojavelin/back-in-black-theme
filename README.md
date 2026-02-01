@@ -47,6 +47,8 @@ If you prefer not to use Git, you can install Back in Black manually:
 4. Open your **Appearance** and **Window Manager** settings and select **Back in Black**.
 
 ## Icon 
-Back in Black theme use **Yet Another Monochrome Icon Set**: https://bitbucket.org/dirn-typo/yet-another-monochrome-icon-set
+Back in Black theme use 
+
+**Yet Another Monochrome Icon Set**: https://bitbucket.org/dirn-typo/yet-another-monochrome-icon-set
 
 **Download**: https://store.kde.org/p/2303161 
