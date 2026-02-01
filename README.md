@@ -15,11 +15,10 @@ Based on [Mayu dark gtk theme](https://github.com/mrbrownstone07/Mayu_dark_gtk_t
 
 ## Screenshots
 
-## Screenshots
-
 ![Overview](screenshots/1.png)
 
 ![Overview](screenshots/1.png)
+
 
 ## Installation
 
